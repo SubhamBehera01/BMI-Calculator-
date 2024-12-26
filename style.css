@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    /* justify-items: center; */
+    padding-top: 250px;
+    /* padding-left: 250px; */
+    background-color: gainsboro;
+}
+.container{
+    justify-items: center;
+}
+form{
+    justify-items: center;
+}
+.submit{
+    margin: 10px;
+}
+input{
+    padding: 5px;
+    margin: 10px;
+    font-size: medium;
+    width: 13vw;
+}
+label{
+    font-size: large;
+}
+.first{
+    margin-left: 16px;
+}
+
+/* h1{
+    margin-left: 10px;
+} */
+h2{
+    margin: 10px;
+}
+p{
+    font-size: large;
+    margin: 10px;
+    letter-spacing: 2px;
+}
+.calculate{
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+    font-size: large;
+    border-radius: 20px;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+.result{
+    font-size: large;
+}
